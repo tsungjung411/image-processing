@@ -23,3 +23,9 @@
 > = 2355x0.71 ~  2355x0.8  
 > = 1672px ~ 1884px  
 > 中間值為 1778px  
+
+<br>
+
+## 相片/證件照沖洗
+- [全家沖印、 7-11 列印照片誰好用？立可得與 ibon教學+比較表](https://www.playpcesor.com/2018/12/likoda-ibon.html)
+- [相片立可得：門市據點查詢](https://www.hiti.com/likoda/channel_detail.aspx?MenuID=135&lang=TW)
